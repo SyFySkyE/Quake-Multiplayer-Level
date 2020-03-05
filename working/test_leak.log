@@ -61,5 +61,5 @@ Wrote test_leak.bsp
               visdata               0
               entdata             112
 
-0.099 seconds elapsed
+0.087 seconds elapsed
 Peak memory usage: 200136 (195.4k)
