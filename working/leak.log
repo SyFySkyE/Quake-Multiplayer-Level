@@ -1,0 +1,7 @@
+---- qbsp / ericw-tools v0.18.1 ----
+Input file: test.map
+Output file: leak.bsp
+
+---- LoadMapFile ----
+************ ERROR ************
+Failed to open test.map: No such file or directory
