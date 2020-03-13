@@ -9,7 +9,7 @@ BSP is version 29
 Embree_TraceInit: Embree version: 2.15.0
 Embree_TraceInit:
 	12 sky faces
-	976 solid faces
+	1232 solid faces
 	0 filtered faces
 	0 shadow-casting skip faces
 SetupLights: 0 initial lights

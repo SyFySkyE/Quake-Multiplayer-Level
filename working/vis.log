@@ -3,15 +3,15 @@ running with 6 threads
 testlevel = 4
 LoadBSPFile: 'Command_Center.bsp'
 BSP is version 29
-   169 leafs
-   377 portals
+   239 leafs
+   519 portals
 Calculating Base Vis:
 0....1....2....3....4....5....6....7....8....9....
 Calculating Full Vis:
 0....1....2....3....4....5....6....7....8....9....
-average leafs visible: 52
+average leafs visible: 58
 c_noclip: 0
-c_chains: 58751
-visdatasize:2644  compressed from 3718
+c_chains: 106856
+visdatasize:4850  compressed from 7170
 Writing Command_Center.bsp as BSP version 29
   0.1 seconds elapsed
