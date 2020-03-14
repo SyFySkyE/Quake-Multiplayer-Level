@@ -26,3 +26,6 @@ it's really not about being complex. It's about making sense, but still giving l
 
 Don't focus too many on "this path should be small, lrg, etc." during initial planning. Have a number of each you'd like to use, figure out the best
 Place to use them during production
+
+make it easy to rocket jump out
+focal point with two paths two narrow?
