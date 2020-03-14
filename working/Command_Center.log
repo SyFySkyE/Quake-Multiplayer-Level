@@ -3,82 +3,84 @@ Input file: Command_Center.map
 Output file: Command_Center.bsp
 
 ---- LoadMapFile ----
-         2205 faces
-          366 brushes
-            6 entities
-            6 unique texnames
-           33 texinfo
+         2421 faces
+          402 brushes
+           13 entities
+           11 unique texnames
+           49 texinfo
 
 Opened WAD: ../wads/prototype_1_2.wad
 Opened WAD: ../wads/START.WAD
 Processing hull 0...
 ---- Brush_LoadEntity ----
-          365 brushes
-          360 planes
+          399 brushes
+          375 planes
 ---- CSGFaces ----
-         2199 brushfaces
-         2046 csgfaces
-         1517 mergedfaces
+         2403 brushfaces
+         2171 csgfaces
+         1663 mergedfaces
 ---- SolidBSP ----
-         1857 split nodes
-          795 solid leafs
-         1061 empty leafs
-            2 water leafs
-            0 detail leafs
-            0 detail illusionary leafs
-            0 detail fence leafs
-            0 illusionary visblocker leafs
-         3782 leaffaces
-         3358 nodefaces
----- Portalize ----
-         1063 vis leafs
-         1063 vis clusters
-         2866 vis portals
----- FillOutside ----
-          682 outleafs
----- MergeAll ----
-          888 mergefaces
----- SolidBSP ----
-          574 split nodes
-          336 solid leafs
-          236 empty leafs
+         2020 split nodes
+          871 solid leafs
+         1147 empty leafs
             3 water leafs
             0 detail leafs
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-         1561 leaffaces
-         1252 nodefaces
+         4085 leaffaces
+         3655 nodefaces
 ---- Portalize ----
-          239 vis leafs
-          239 vis clusters
-          519 vis portals
+         1150 vis leafs
+         1150 vis clusters
+         3096 vis portals
+---- FillOutside ----
+          754 outleafs
+---- MergeAll ----
+          930 mergefaces
+---- SolidBSP ----
+          568 split nodes
+          334 solid leafs
+          231 empty leafs
+            4 water leafs
+            0 detail leafs
+            0 detail illusionary leafs
+            0 detail fence leafs
+            0 illusionary visblocker leafs
+         1606 leaffaces
+         1293 nodefaces
+---- Portalize ----
+          235 vis leafs
+          235 vis clusters
+          500 vis portals
 ---- Tjunc ----
-         1344 world edges
-         4416 edge points
-         1037 edges added by tjunctions
+         1383 world edges
+         4540 edge points
+         1080 edges added by tjunctions
             0 faces added by tjunctions
 ---- MakeFaceEdges ----
 ---- GrowRegions ----
 Processing hull 1...
+*** WARNING 19: No entities in empty space -- no filling performed (hull 1)
 Processing hull 2...
+*** WARNING 19: No entities in empty space -- no filling performed (hull 2)
 *** WARNING 16: Texture __TB_empty not found
 ---- WriteBSPFile ----
 Wrote Command_Center.bsp
-          458 planes             9160
-         1707 vertexes          20484
-          580 nodes             13920
-           23 texinfo             920
-         1258 faces             25160
-         1394 clipnodes         11152
-          246 leafs              6888
-         1567 marksurfaces       3134
-         6040 surfedges         24160
-         3021 edges             12084
-            6 textures          56852
+          692 planes            13840
+         1773 vertexes          21276
+          586 nodes             14064
+           37 texinfo            1480
+         1311 faces             26220
+         4248 clipnodes         33984
+          254 leafs              7112
+         1624 marksurfaces       3248
+         6290 surfedges         25160
+         3146 edges             12584
+           11 textures         206672
               lightdata             0
               visdata               0
-              entdata             442
+              entdata            1011
 
-0.437 seconds elapsed
-Peak memory usage: 15850018 (15.1M)
+0.396 seconds elapsed
+Peak memory usage: 17605900 (16.8M)
