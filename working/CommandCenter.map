@@ -4,6 +4,9 @@
 {
 "classname" "worldspawn"
 "wad" "../wads/prototype_1_2.wad;../wads/START.WAD"
+"message" "Command Center"
+"sounds" "02"
+"worldtype" "2"
 // brush 0
 {
 ( 448 608 224 ) ( 448 608 256 ) ( 448 448 256 ) 128_honey_3 -0 -0 0 1 1
