@@ -1,6 +1,6 @@
 ---- qbsp / ericw-tools v0.18.1 ----
-Input file: Command_Center.map
-Output file: Command_Center.bsp
+Input file: CommandCenter.map
+Output file: CommandCenter.bsp
 
 ---- LoadMapFile ----
          2415 faces
@@ -66,7 +66,7 @@ Processing hull 2...
 *** WARNING 19: No entities in empty space -- no filling performed (hull 2)
 *** WARNING 16: Texture __TB_empty not found
 ---- WriteBSPFile ----
-Wrote Command_Center.bsp
+Wrote CommandCenter.bsp
           692 planes            13840
          1774 vertexes          21288
           590 nodes             14160
@@ -82,5 +82,5 @@ Wrote Command_Center.bsp
               visdata               0
               entdata            2740
 
-0.403 seconds elapsed
+0.406 seconds elapsed
 Peak memory usage: 17575708 (16.8M)

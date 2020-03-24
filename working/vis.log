@@ -1,7 +1,7 @@
 ---- vis / ericw-tools v0.18.1 ----
 running with 6 threads
 testlevel = 4
-LoadBSPFile: 'Command_Center.bsp'
+LoadBSPFile: 'CommandCenter.bsp'
 BSP is version 29
    236 leafs
    507 portals
@@ -11,7 +11,7 @@ Calculating Full Vis:
 0....1....2....3....4....5....6....7....8....9....
 average leafs visible: 58
 c_noclip: 0
-c_chains: 92942
+c_chains: 91582
 visdatasize:4719  compressed from 7080
-Writing Command_Center.bsp as BSP version 29
+Writing CommandCenter.bsp as BSP version 29
   0.1 seconds elapsed
