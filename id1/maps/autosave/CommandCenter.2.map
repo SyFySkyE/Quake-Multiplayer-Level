@@ -3724,7 +3724,7 @@
 "height" "244"
 "sounds" "2"
 "speed" "100"
-"spawnflags" "1"
+"spawnflags" "0"
 // brush 0
 {
 ( -16 1568 288 ) ( -16 1664 320 ) ( -16 1568 320 ) 128_honey_2 0 0 0 1 1
