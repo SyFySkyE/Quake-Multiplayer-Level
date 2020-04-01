@@ -5,7 +5,7 @@ Output file: commandcenter.bsp
 ---- LoadMapFile ----
          2439 faces
           405 brushes
-           43 entities
+           45 entities
            11 unique texnames
            49 texinfo
 
@@ -67,12 +67,12 @@ Processing hull 2...
 *** WARNING 16: Texture __TB_empty not found
 ---- WriteBSPFile ----
 Wrote commandcenter.bsp
-          689 planes            13780
+          682 planes            13640
          1769 vertexes          21228
           590 nodes             14160
            37 texinfo            1480
          1312 faces             26240
-         4233 clipnodes         33864
+         4229 clipnodes         33832
           255 leafs              7140
          1612 marksurfaces       3224
          6284 surfedges         25136
@@ -80,7 +80,7 @@ Wrote commandcenter.bsp
            11 textures         206672
               lightdata             0
               visdata               0
-              entdata            2814
+              entdata            2970
 
-0.384 seconds elapsed
-Peak memory usage: 17662672 (16.8M)
+0.401 seconds elapsed
+Peak memory usage: 17662688 (16.8M)
