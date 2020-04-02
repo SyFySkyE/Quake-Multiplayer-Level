@@ -3,84 +3,82 @@ Input file: commandcenter.map
 Output file: commandcenter.bsp
 
 ---- LoadMapFile ----
-         2439 faces
-          405 brushes
-           45 entities
-           11 unique texnames
-           49 texinfo
+         3290 faces
+          499 brushes
+           15 entities
+           15 unique texnames
+           95 texinfo
 
 Opened WAD: ../wads/prototype_1_2.wad
 Opened WAD: ../wads/START.WAD
 Processing hull 0...
 ---- Brush_LoadEntity ----
-          402 brushes
-          378 planes
+          495 brushes
+          725 planes
 ---- CSGFaces ----
-         2421 brushfaces
-         2178 csgfaces
-         1658 mergedfaces
+         3208 brushfaces
+         3379 csgfaces
+         2763 mergedfaces
 ---- SolidBSP ----
-         2015 split nodes
-          869 solid leafs
-         1144 empty leafs
-            3 water leafs
+         2776 split nodes
+         1072 solid leafs
+         1692 empty leafs
+           13 water leafs
             0 detail leafs
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-         4067 leaffaces
-         3632 nodefaces
+         5892 leaffaces
+         4966 nodefaces
 ---- Portalize ----
-         1147 vis leafs
-         1147 vis clusters
-         3086 vis portals
+         1705 vis leafs
+         1705 vis clusters
+         4754 vis portals
 ---- FillOutside ----
-          752 outleafs
+          897 outleafs
 ---- MergeAll ----
-          930 mergefaces
+         1912 mergefaces
 ---- SolidBSP ----
-          572 split nodes
-          337 solid leafs
-          232 empty leafs
+          896 split nodes
+          374 solid leafs
+          519 empty leafs
             4 water leafs
             0 detail leafs
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-         1594 leaffaces
-         1294 nodefaces
+         2869 leaffaces
+         2159 nodefaces
 ---- Portalize ----
-          236 vis leafs
-          236 vis clusters
-          507 vis portals
+          523 vis leafs
+          523 vis clusters
+         1177 vis portals
 ---- Tjunc ----
-         1381 world edges
-         4536 edge points
-         1074 edges added by tjunctions
-            0 faces added by tjunctions
+         2242 world edges
+         7682 edge points
+         2224 edges added by tjunctions
+            2 faces added by tjunctions
 ---- MakeFaceEdges ----
 ---- GrowRegions ----
 Processing hull 1...
-*** WARNING 19: No entities in empty space -- no filling performed (hull 1)
 Processing hull 2...
-*** WARNING 19: No entities in empty space -- no filling performed (hull 2)
 *** WARNING 16: Texture __TB_empty not found
 ---- WriteBSPFile ----
 Wrote commandcenter.bsp
-          682 planes            13640
-         1769 vertexes          21228
-          590 nodes             14160
-           37 texinfo            1480
-         1312 faces             26240
-         4229 clipnodes         33832
-          255 leafs              7140
-         1612 marksurfaces       3224
-         6284 surfedges         25136
-         3143 edges             12572
-           11 textures         206672
+         1021 planes            20420
+         3056 vertexes          36672
+          978 nodes             23472
+           55 texinfo            2200
+         2227 faces             44540
+         1630 clipnodes         13040
+          606 leafs             16968
+         2937 marksurfaces       5874
+        10854 surfedges         43416
+         5442 edges             21768
+           15 textures         229504
               lightdata             0
               visdata               0
-              entdata            2970
+              entdata            1265
 
-0.401 seconds elapsed
-Peak memory usage: 17662688 (16.8M)
+0.593 seconds elapsed
+Peak memory usage: 20807718 (19.8M)
