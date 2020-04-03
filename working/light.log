@@ -28,10 +28,10 @@ Final count: 166 lights 0 suns in use.
 0....1....2....3....4....5....6....7....8....9....
 Lighting Completed.
 
-lightdatasize: 92956
+lightdatasize: 92953
 0 switchable light styles (32 max)
 Writing commandcenter.bsp as BSP version 29
-1.406 seconds elapsed
+1.492 seconds elapsed
 
 stats:
 20.481655 lights tested, 5.070909 hits per sample point
