@@ -10176,3 +10176,43 @@
 "classname" "weapon_supershotgun"
 "origin" "312 288 64"
 }
+// entity 22
+{
+"classname" "weapon_nailgun"
+"origin" "384 256 64"
+}
+// entity 23
+{
+"classname" "weapon_supernailgun"
+"origin" "400 216 64"
+}
+// entity 24
+{
+"classname" "weapon_rocketlauncher"
+"origin" "984 1088 104"
+}
+// entity 25
+{
+"classname" "item_health"
+"origin" "480 184 64"
+}
+// entity 26
+{
+"classname" "monster_army"
+"origin" "360 512 104"
+}
+// entity 27
+{
+"classname" "item_spikes"
+"origin" "376 168 64"
+}
+// entity 28
+{
+"classname" "item_shells"
+"origin" "304 208 64"
+}
+// entity 29
+{
+"classname" "item_rockets"
+"origin" "408 144 64"
+}

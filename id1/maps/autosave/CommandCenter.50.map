@@ -10375,3 +10375,10 @@
 "classname" "light"
 "origin" "520 176 344"
 }
+// entity 45
+{
+"classname" "light"
+"origin" "968 1080 440"
+"light" "500"
+"mangle" ""
+}

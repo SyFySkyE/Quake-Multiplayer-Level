@@ -10375,3 +10375,29 @@
 "classname" "light"
 "origin" "520 176 344"
 }
+// entity 45
+{
+"classname" "light_globe"
+"origin" "968 1080 472"
+"light" "500"
+}
+// entity 46
+{
+"classname" "light"
+"origin" "664 1064 264"
+}
+// entity 47
+{
+"classname" "light"
+"origin" "920 792 264"
+}
+// entity 48
+{
+"classname" "light"
+"origin" "1256 1128 264"
+}
+// entity 49
+{
+"classname" "light"
+"origin" "984 1336 264"
+}

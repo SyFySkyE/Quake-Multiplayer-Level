@@ -10288,3 +10288,8 @@
 "classname" "item_health"
 "origin" "496 600 256"
 }
+// entity 30
+{
+"classname" "item_health"
+"origin" "976 1664 288"
+}

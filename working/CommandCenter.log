@@ -5,7 +5,7 @@ Output file: commandcenter.bsp
 ---- LoadMapFile ----
          6889 faces
          1074 brushes
-           45 entities
+           50 entities
            17 unique texnames
           125 texinfo
 
@@ -78,7 +78,7 @@ Wrote commandcenter.bsp
            17 textures         257240
               lightdata             0
               visdata               0
-              entdata            3210
+              entdata            3470
 
-1.147 seconds elapsed
-Peak memory usage: 37068308 (35.4M)
+1.135 seconds elapsed
+Peak memory usage: 37068572 (35.4M)
