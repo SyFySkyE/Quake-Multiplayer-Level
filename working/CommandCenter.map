@@ -15246,7 +15246,7 @@
 // entity 11
 {
 "classname" "func_plat"
-"height" "244"
+"height" "250"
 "sounds" "2"
 "speed" "150"
 "spawnflags" "1"

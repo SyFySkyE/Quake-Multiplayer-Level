@@ -31,7 +31,7 @@ lightdatasize: 104498
 Writing commandcenter.lit
 0 switchable light styles (32 max)
 Writing commandcenter.bsp as BSP version 29
-1.539 seconds elapsed
+1.540 seconds elapsed
 
 stats:
 22.354773 lights tested, 4.664021 hits per sample point
