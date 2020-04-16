@@ -8,33 +8,32 @@ BSP is version 29
 WARNING: Not 3 values for mangle
 WARNING: Not 3 values for mangle
 WARNING: couldn't parse 'aw' as number for key 'wait'
-WARNING: couldn't parse 'ds' as number for key 'delay'
-204 entities read, 161 are lights.
+200 entities read, 157 are lights.
 --- OptionsSummary ---
 Embree_TraceInit: Embree version: 2.15.0
 Embree_TraceInit:
 	0 sky faces
-	4997 solid faces
+	5014 solid faces
 	0 filtered faces
 	0 shadow-casting skip faces
-SetupLights: 161 initial lights
-SetupLights: 161 after surface lights
-SetupLights: 161 after jittering
+SetupLights: 157 initial lights
+SetupLights: 157 after surface lights
+SetupLights: 157 after jittering
 --- EstimateLightVisibility ---
 0....1....2....3....4....5....6....7....8....9....
-Final count: 161 lights 0 suns in use.
+Final count: 157 lights 0 suns in use.
 Colored light entities/settings detected: .lit output enabled.
 --- LightWorld ---
 0....1....2....3....4....5....6....7....8....9....
 Lighting Completed.
 
-lightdatasize: 104054
+lightdatasize: 104498
 Writing commandcenter.lit
 0 switchable light styles (32 max)
 Writing commandcenter.bsp as BSP version 29
-1.669 seconds elapsed
+1.539 seconds elapsed
 
 stats:
-24.853247 lights tested, 4.927357 hits per sample point
+22.354773 lights tested, 4.664021 hits per sample point
 0.000000 bounce lights tested, 0.000000 hits per sample point
 0 empty lightmaps
