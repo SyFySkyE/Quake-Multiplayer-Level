@@ -13,7 +13,7 @@ WARNING: couldn't parse 'aw' as number for key 'wait'
 Embree_TraceInit: Embree version: 2.15.0
 Embree_TraceInit:
 	0 sky faces
-	5012 solid faces
+	5009 solid faces
 	0 filtered faces
 	0 shadow-casting skip faces
 SetupLights: 157 initial lights
@@ -27,13 +27,13 @@ Colored light entities/settings detected: .lit output enabled.
 0....1....2....3....4....5....6....7....8....9....
 Lighting Completed.
 
-lightdatasize: 104418
+lightdatasize: 104408
 Writing commandcenter.lit
 0 switchable light styles (32 max)
 Writing commandcenter.bsp as BSP version 29
-1.972 seconds elapsed
+1.805 seconds elapsed
 
 stats:
-22.345629 lights tested, 4.665232 hits per sample point
+22.346471 lights tested, 4.665431 hits per sample point
 0.000000 bounce lights tested, 0.000000 hits per sample point
 0 empty lightmaps

@@ -19,7 +19,7 @@ Processing hull 0...
 ---- CSGFaces ----
         10229 brushfaces
          8835 csgfaces
-         6342 mergedfaces
+         6339 mergedfaces
 ---- SolidBSP ----
          7862 split nodes
          2933 solid leafs
@@ -30,7 +30,7 @@ Processing hull 0...
             0 detail fence leafs
             0 illusionary visblocker leafs
         15360 leaffaces
-        13255 nodefaces
+        13254 nodefaces
 ---- Portalize ----
          4930 vis leafs
          4930 vis clusters
@@ -38,7 +38,7 @@ Processing hull 0...
 ---- FillOutside ----
          1659 outleafs
 ---- MergeAll ----
-         4833 mergefaces
+         4830 mergefaces
 ---- SolidBSP ----
          2193 split nodes
           907 solid leafs
@@ -48,16 +48,16 @@ Processing hull 0...
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-         7283 leaffaces
-         5294 nodefaces
+         7280 leaffaces
+         5291 nodefaces
 ---- Portalize ----
          1287 vis leafs
          1287 vis clusters
          3407 vis portals
 ---- Tjunc ----
-         5256 world edges
-        18467 edge points
-         5453 edges added by tjunctions
+         5254 world edges
+        18457 edge points
+         5451 edges added by tjunctions
             2 faces added by tjunctions
 ---- MakeFaceEdges ----
 ---- GrowRegions ----
@@ -67,19 +67,19 @@ Processing hull 2...
 ---- WriteBSPFile ----
 Wrote commandcenter.bsp
          1715 planes            34300
-         7072 vertexes          84864
+         7068 vertexes          84816
          2268 nodes             54432
           314 texinfo           12560
-         5363 faces            107260
+         5360 faces            107200
          2647 clipnodes         21176
          1363 leafs             38164
-         7351 marksurfaces      14702
-        26234 surfedges        104936
-        13133 edges             52532
+         7348 marksurfaces      14696
+        26220 surfedges        104880
+        13126 edges             52504
           121 textures        1140192
               lightdata             0
               visdata               0
               entdata           15472
 
-1.647 seconds elapsed
-Peak memory usage: 50168952 (47.8M)
+1.659 seconds elapsed
+Peak memory usage: 50167320 (47.8M)
