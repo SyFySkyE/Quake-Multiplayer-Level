@@ -10522,7 +10522,7 @@
 ( 1088 1860 32 ) ( 1088 1860 168 ) ( 832 1814 168 ) wl_rock_grass1 -0 -0 0 1 1
 ( 832 1778 32 ) ( 1088 1802 32 ) ( 1088 1860 32 ) wl_rock_grass1 0 0 0 1 1
 ( 1088 1860 168 ) ( 1088 1802 168 ) ( 832 1778 168 ) wl_rock_grass1 0 0 0 1 1
-( 1088 1802 168 ) ( 1088 1802 32 ) ( 832 1778 32 ) UnNamed313 -0 -0 0 1 1
+( 1088 1802 168 ) ( 1088 1802 32 ) ( 832 1778 32 ) wl_rustymetal11 -0 -0 0 1 1
 ( 1088 1860 32 ) ( 1088 1802 32 ) ( 1088 1802 168 ) wl_rock_grass1 0 0 0 1 1
 }
 // brush 1130
@@ -15948,6 +15948,7 @@
 "origin" "1416 336 200"
 "light" "150"
 "wait" "2"
+"delay" "5"
 }
 // entity 112
 {
@@ -15995,7 +15996,7 @@
 "origin" "1536 408 336"
 "light" "50"
 "wait" ".5"
-"delay" "ds"
+"delay" "3"
 }
 // entity 119
 {
@@ -16350,8 +16351,8 @@
 // entity 166
 {
 "classname" "light"
-"origin" "1408 1528 128"
-"light" "25"
+"origin" "1488 1464 128"
+"light" "75"
 "wait" ".5"
 "delay" "3"
 }
@@ -16478,5 +16479,106 @@
 // entity 183
 {
 "classname" "light_fluorospark"
-"origin" "1496 776 144"
+"origin" "1496 760 148"
+"wait" "3"
+}
+// entity 184
+{
+"classname" "light_fluorospark"
+"origin" "1496 704 148"
+"wait" "3"
+}
+// entity 185
+{
+"classname" "light_fluorospark"
+"origin" "1488 636 148"
+"wait" "3"
+}
+// entity 186
+{
+"classname" "light_fluorospark"
+"origin" "1492 576 148"
+"wait" "3"
+}
+// entity 187
+{
+"classname" "light_fluorospark"
+"origin" "1488 512 148"
+"wait" "3"
+}
+// entity 188
+{
+"classname" "light_fluorospark"
+"origin" "1496 440 148"
+"wait" "3"
+}
+// entity 189
+{
+"classname" "light_fluorospark"
+"origin" "1500 376 148"
+"wait" "3"
+}
+// entity 190
+{
+"classname" "light_fluorospark"
+"origin" "1496 312 148"
+"wait" "3"
+}
+// entity 191
+{
+"classname" "light_fluorospark"
+"origin" "1496 220 148"
+"wait" "3"
+}
+// entity 192
+{
+"classname" "light_fluorospark"
+"origin" "1291 652 148"
+"wait" "3"
+}
+// entity 193
+{
+"classname" "light_fluorospark"
+"origin" "1311 568 148"
+"wait" "3"
+}
+// entity 194
+{
+"classname" "light_fluorospark"
+"origin" "1323 520 148"
+"wait" "3"
+}
+// entity 195
+{
+"classname" "light_fluorospark"
+"origin" "1335 448 148"
+"wait" "3"
+}
+// entity 196
+{
+"classname" "light_fluorospark"
+"origin" "1367 324 148"
+"wait" "3"
+}
+// entity 197
+{
+"classname" "light"
+"origin" "1396 572 24"
+"delay" "5"
+"light" "150"
+}
+// entity 198
+{
+"classname" "light"
+"origin" "1436 360 24"
+"delay" "5"
+"light" "150"
+}
+// entity 199
+{
+"classname" "light"
+"origin" "1316 1656 128"
+"light" "75"
+"wait" ".5"
+"delay" "3"
 }

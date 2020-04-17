@@ -19,7 +19,7 @@ Processing hull 0...
 ---- CSGFaces ----
         10229 brushfaces
          8835 csgfaces
-         6346 mergedfaces
+         6342 mergedfaces
 ---- SolidBSP ----
          7862 split nodes
          2933 solid leafs
@@ -29,8 +29,8 @@ Processing hull 0...
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-        15370 leaffaces
-        13265 nodefaces
+        15360 leaffaces
+        13255 nodefaces
 ---- Portalize ----
          4930 vis leafs
          4930 vis clusters
@@ -38,26 +38,26 @@ Processing hull 0...
 ---- FillOutside ----
          1659 outleafs
 ---- MergeAll ----
-         4837 mergefaces
+         4833 mergefaces
 ---- SolidBSP ----
-         2185 split nodes
-          902 solid leafs
-         1217 empty leafs
+         2193 split nodes
+          907 solid leafs
+         1220 empty leafs
            67 water leafs
             0 detail leafs
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-         7293 leaffaces
-         5296 nodefaces
+         7283 leaffaces
+         5294 nodefaces
 ---- Portalize ----
-         1284 vis leafs
-         1284 vis clusters
-         3380 vis portals
+         1287 vis leafs
+         1287 vis clusters
+         3407 vis portals
 ---- Tjunc ----
-         5258 world edges
-        18477 edge points
-         5455 edges added by tjunctions
+         5256 world edges
+        18467 edge points
+         5453 edges added by tjunctions
             2 faces added by tjunctions
 ---- MakeFaceEdges ----
 ---- GrowRegions ----
@@ -67,19 +67,19 @@ Processing hull 2...
 ---- WriteBSPFile ----
 Wrote commandcenter.bsp
          1715 planes            34300
-         7075 vertexes          84900
-         2260 nodes             54240
-          315 texinfo           12600
-         5365 faces            107300
+         7072 vertexes          84864
+         2268 nodes             54432
+          314 texinfo           12560
+         5363 faces            107260
          2647 clipnodes         21176
-         1360 leafs             38080
-         7361 marksurfaces      14722
-        26244 surfedges        104976
-        13138 edges             52552
+         1363 leafs             38164
+         7351 marksurfaces      14702
+        26234 surfedges        104936
+        13133 edges             52532
           121 textures        1140192
               lightdata             0
               visdata               0
               entdata           15472
 
-1.488 seconds elapsed
-Peak memory usage: 50185352 (47.9M)
+1.647 seconds elapsed
+Peak memory usage: 50168952 (47.8M)
